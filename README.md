@@ -1,3 +1,3 @@
 # PicoCTF
 
-My personal journey in PicoCTF
+My personal journey at PicoCTF
