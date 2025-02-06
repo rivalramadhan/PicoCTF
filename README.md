@@ -1,4 +1,4 @@
 # PicoCTF
 
-picopico!
+look at the challenges I've completed
 
